@@ -6,6 +6,5 @@ Stále tu však nie je všetko na 100% hotové:
 -- Precujem na funkcionalite a responzivite Hada,
   .. spraviť aby sa dal hrať aj na mobile
   .. responzívne načítanie a vykreslenie plochy, tela aj bloku jedla
-  .. reset stránky po naburaní do steny či do sebe
 
 -- A kedykoľvek ma napadne niečo zlepšiť alebo aj prerobiť tak sa do toho pustím (napr. menu som prerábal na 3x :D)

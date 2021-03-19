@@ -123,7 +123,7 @@ function Eat() {
 }
 
 /*
- * Ich been fucked up
+ * GAME OVER
  */
 
 function Crash() {

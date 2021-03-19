@@ -2,35 +2,7 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-
-    <!-- Google fonts -->
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Qwigley&family=Raleway:wght@200;800&display=swap" rel="stylesheet">
-
     <style>
-        /*
-        Fonty:
-        font-family: 'Qwigley', cursive;
-        font-family: 'Raleway', sans-serif;
-        */
-        
-        * {
-            font-family: 'Raleway', sans-serif;
-            font-size: 100%;
-            margin: 0;
-            padding: 0;
-            text-decoration: none;
-        }
-        
-        html,
-        body {
-            height: 100%;
-            background-color: rgb(58, 58, 58);
-        }
         /*
          * Footer
          */
@@ -123,6 +95,9 @@
             height: 100%;
             z-index: 1;
         }
+        /*
+         * MEDIA Q. 
+         */
         
         @media only screen and (max-width: 1200px) {
             .form_design {
@@ -159,6 +134,9 @@
                 padding: 2% 5% 2% 5%;
             }
         }
+        /*
+         * MEDIA Q. 
+         */
         
         @media only screen and (max-width: 600px) {
             .form_design {
@@ -228,6 +206,9 @@
             background-color: #3DDC84;
             color: rgb(58, 58, 58);
         }
+        /*
+         * MEDIA Q. 
+         */
         
         @media only screen and (max-width: 1000px) {
             .contact {
@@ -278,8 +259,6 @@
             <h1>NAPÍŠTE MI</h1>
 
             <form action="contact_form_code.php" method="post" id="contact_form">
-
-                <!-- <input type="text" name="name" placeholder="Vaše meno" class="form_design"><br> -->
 
                 <input type="email" name="mail" placeholder="Váš e-mail" class="form_design"><br>
 

@@ -2,36 +2,7 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-
-    <!-- Google fonts -->
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Qwigley&family=Raleway:wght@200;800&display=swap" rel="stylesheet">
-
     <style>
-        /*
-         Fonty:
-            font-family: 'Qwigley', cursive;
-            font-family: 'Raleway', sans-serif;
-         */
-        
-        * {
-            font-family: 'Raleway', sans-serif;
-            font-size: 100%;
-            margin: 0;
-            padding: 0;
-            text-decoration: none;
-        }
-        
-        html,
-        body {
-            font-family: 'Raleway', sans-serif;
-            height: 100%;
-            background-color: rgb(58, 58, 58);
-        }
         /*
          * NAVIGATION
          */

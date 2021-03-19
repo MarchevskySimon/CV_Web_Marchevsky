@@ -2,35 +2,7 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-
-    <!-- Google fonts -->
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Qwigley&family=Raleway:wght@200;800&display=swap" rel="stylesheet">
-
     <style>
-        /*
-         Fonty:
-            font-family: 'Qwigley', cursive;
-            font-family: 'Raleway', sans-serif;
-         */
-        
-        * {
-            font-family: 'Raleway', sans-serif;
-            font-size: 100%;
-            margin: 0;
-            padding: 0;
-        }
-        
-        html,
-        body {
-            font-family: 'Raleway', sans-serif;
-            height: 100%;
-            background-color: rgb(58, 58, 58);
-        }
         /*
          * MAIN
          */
@@ -160,12 +132,6 @@
             .img svg {
                 width: 80%;
             }
-        }
-        
-        .fuck {
-            background-color: red;
-            width: 100%;
-            height: 50%;
         }
     </style>
 
@@ -524,11 +490,6 @@
         </div>
 
     </main>
-
-    <div class="fuck">
-
-    </div>
-
     <script>
         'use strict';
 

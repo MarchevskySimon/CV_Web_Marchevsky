@@ -128,14 +128,19 @@ function Eat() {
 
 function Crash() {
     var eaterPos = eater.getBoundingClientRect();
+    var originalHtml = document.body.innerHTML;
 
+    // Narazil si do seba
     poleTail.forEach(element => {
         if (eaterPos.x == element.getBoundingClientRect().x && eaterPos.y == element.getBoundingClientRect().y) {
-            alert('Game over');
+            alert('Game over - Narazil si do seba');
+            location.reload();
         }
     });
 
+    // Narazil si do steny
     if (eaterPos.x < 0 || eaterPos.x > areaWidth || eaterPos.y < 0 || eaterPos.y > areaHigth) {
-        alert('Game over');
+        alert('Game over - Narazil si do steny');
+        location.reload();
     }
 }

@@ -312,6 +312,9 @@
                 <li>
                     <a href="https://storyset.com/communication">Illustration by Freepik Storyset</a>
                 </li>
+                <li>
+                    <a href="https://github.com/MarchevskySimon/CV_Web_Marchevsky">GitHub</a>
+                </li>
             </ul>
             <a href="#header" class="contact_a">HORE</a>
         </div>

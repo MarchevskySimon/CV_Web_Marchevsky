@@ -161,7 +161,7 @@
 
                 <h5>Moje schopnosti</h5>
                 <p>
-                    Ovládam HTML5, CSS3, JS ( Aj jQuery ). Mám skúsenosti aj s programami ako Python a GitHub.
+                    Ovládam HTML5, CSS3, JS ( Aj jQuery ). Mám skúsenosti aj s Python a Git.
                 </p>
 
                 <span>Chceš o mne vedieť viac ?</span>
